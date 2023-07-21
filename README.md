@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="130" alt="hello"/>I'm Sanika Patil</h1>
+<h1 align="center"><img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="110" alt="hello"/>I'm Sanika Patil</h1>
 <h3 align="center">Computer Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
