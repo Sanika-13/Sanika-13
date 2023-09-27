@@ -6,9 +6,11 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C,DBMS**
+- 💬 Ask me about **C, DBMS(SQL), MongoDB, HTML**
 
 - 📫 How to reach me **13sanikapatil@gmail.com**
+
+- 🤝I'm looking to collaborate on fronted development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
