@@ -14,10 +14,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sanika patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanika patil" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sanika-patil-b8b8ba227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanika patil" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:22262603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22262603" height="30" width="40" /></a>
 <a href="https://instagram.com/sanikapatil8799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanikapatil8799" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ssp1371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ssp1371" height="30" width="40" /></a>
+<a href="www.youtube.com/@ssp1371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ssp1371" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
