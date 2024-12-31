@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C, DBMS(SQL), MongoDB, HTML**
+- 💬 Ask me about **C Programming, DBMS(SQL), MongoDB, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **13sanikapatil@gmail.com**
 
