@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanika-13&label=Profile%20views&color=0e75b6&style=flat" alt="sanika-13" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **New technologies**
 
 - 💬 Ask me about **C Programming, DBMS(SQL), MongoDB, HTML, CSS, JavaScript**
 
